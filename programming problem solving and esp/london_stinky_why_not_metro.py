@@ -1,1 +1,0 @@
-stations = ["Hammersmith", "Goldhawk Road", "Shepherd's Bush Market", "Wood Lane", "Latimer Road", "Ladbroke Grove", "Westbourne Park", "Royal Oak", "Paddington (Suburban)", "Paddington (Praed Street)", "Bayswater", "Notting Hill Gate", "High Street Kensington", "Gloucester Road", "South Kensington"]
