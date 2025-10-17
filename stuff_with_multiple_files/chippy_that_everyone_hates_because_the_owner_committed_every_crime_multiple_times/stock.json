@@ -1,0 +1,27 @@
+{
+    "Newcastle Upon Tyne":{
+        "fish":457,
+        "chips":4,
+        "coke":1659
+    },
+    "Alnwick":{
+        "fish":602,
+        "chips":315,
+        "coke":175
+    },
+    "Newton Aycliffe":{
+        "fish":771,
+        "chips":164,
+        "coke":57
+    },
+    "Thirsk":{
+        "fish":564,
+        "chips":849,
+        "coke":847
+    },
+    "Whitby":{
+        "fish":274,
+        "chips":664,
+        "coke":408
+    }
+}
